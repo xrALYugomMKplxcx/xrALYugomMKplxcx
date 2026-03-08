@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Your donation
+<h1 align="left">Your donation</h1>
 Make sure to copy the wallet addresses exactly when making your donation, as we cannot recover funds sent to the wrong wallet.
 - BTC - Bitcoin
 //
