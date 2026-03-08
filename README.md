@@ -1,18 +1,18 @@
 ## Hi there 👋
 
-# Your donation
+## Your donation
 Make sure to copy the wallet addresses exactly when making your donation, as we cannot recover funds sent to the wrong wallet.
-BTC - Bitcoin
+## BTC - Bitcoin
 //
-DOGE - Dogecoin
+## DOGE - Dogecoin
 //
-ETH - Ether
+## ETH - Ether
 //
-LTC - Litecoin
+## LTC - Litecoin
 //
-XMR - Monero
+## XMR - Monero
 //
-XLM - Stellar Lumen
+## XLM - Stellar Lumen
 //
-ZEC - Zcash
+## ZEC - Zcash
 //
